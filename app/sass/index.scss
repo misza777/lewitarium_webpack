@@ -1,0 +1,12 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+//bootstrap ma byc pierwszy potem nasze zmienne!
+
+// @import './reset';
+// albo reset albo normalize
+@import '../../node_modules/normalize.css/normalize.css';
+
+@import './base';
+@import './variables';
+
+
+
